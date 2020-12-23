@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767458994238",
+    "project_id": "chatapp-3e8f9",
+    "storage_bucket": "chatapp-3e8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767458994238:android:b4620e6bb1681c45ae496f",
+        "android_client_info": {
+          "package_name": "tech.tedycoding.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767458994238-60ruell9kea2gp1kd8mtqcc35oluthbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElNchYcSBywCoFYXdV75ejSolv3s77Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767458994238-60ruell9kea2gp1kd8mtqcc35oluthbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
